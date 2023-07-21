@@ -65,7 +65,7 @@
                         <div class="inline-search-area">
                             <div class="row g-0">
                                 <div class="col-xl-2 col-lg-2 col-md-6 col-sm-6 col-6 search-col">
-                                <form action="car_details.php" method="POST">
+                                <form action="cars_list.php" method="POST">
                                     <select class="selectpicker search-fields" name="select-price">
                                         <option value="10000">> 10000€</option>
                                         <option value="30000">> 30000€</option>
